@@ -1,0 +1,6 @@
+{
+  "name": "SMART RESULT – Student Result Processing System",
+  "description": "Official VVIT University Department of CSE (AI & ML) Student Result Processing & Examination ERP System.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
